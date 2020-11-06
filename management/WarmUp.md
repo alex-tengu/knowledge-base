@@ -13,7 +13,7 @@
 **4. Plan day**
 - Set daily goals
 
-**5. WORK 🔥 **
+**5. WORK 🔥**
 
 **6. Save day results**
 - (txt/verbose/sheets)
