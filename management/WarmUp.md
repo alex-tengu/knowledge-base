@@ -1,4 +1,4 @@
-### how to warmup before work
+## how to warmup before work
 
 **1. Open Sheets / Trello**
 - check project types
