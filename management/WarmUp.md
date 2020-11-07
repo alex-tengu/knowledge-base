@@ -15,9 +15,8 @@
 
 **5. WORK 🔥**
 
-q: how?
-
-a: take task and start to do it :)
+    q: how?
+    a: take task and start to do it :)
 
 **6. Save day results**
 - (txt/verbose/sheets)
