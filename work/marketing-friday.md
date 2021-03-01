@@ -1,4 +1,4 @@
-Draft of framework "Marketing friday".
+## Draft of framework "Marketing friday".
 
 CASE 1:
 Checking news from game industry websites.
