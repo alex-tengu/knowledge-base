@@ -19,9 +19,11 @@
 
 1. NOISE SUPPRESSION
 RNNoise или RTX Noise Removal
-2. NOISE GATE
-  Для этой гарнитуры не требуется.
-  Not necessary for this headset.
+
+3. NOISE GATE
+Для этой гарнитуры не требуется.
+Not necessary for this headset.
+
 3. COMPRESSOR
   Ratio: 1,00:1
   Threshold: -50 dB
