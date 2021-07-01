@@ -1,7 +1,7 @@
 *Фильтры в OBS применяются по порядку сверху вниз.*
 *Filters in OBS are applying from top to bottom.*
 
-#### **Рекомендованный порядок фильтров (сверху вниз):**
+### **Рекомендованный порядок фильтров (сверху вниз):**
 
 **Recommended filter order (from top ro bottom):**
 
@@ -13,7 +13,7 @@
 
 ---------------------------------------------------
 
-#### Рекомендуемые настройки фильтров для Edifier G2 II:
+### Рекомендуемые настройки фильтров для Edifier G2 II:
 
 **Recommended filters settings for Edifier G2 II headset:**
 
@@ -43,7 +43,7 @@ Outpit gain: 0
 
 -----------
 
-#### VIDEO FILTERS
+### VIDEO FILTERS
 
 **Image Mask/Blend**
 
